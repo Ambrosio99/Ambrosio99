@@ -13,11 +13,12 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
 
+### Portfólio pessoal
+- [Ambrosio99](https://ambrosio99.github.io/personal-portfolio/) | Neste portfólio comento sobre minhas experiências, conhecimentos e estudos que estou desenvolvendo no momento.
+
 ### Últimos projetos:
 - [Pokedex utilizando PokeAPI](https://github.com/Ambrosio99/projeto-pokedex)<br/>
 - [Sistema bancário simples em TypeScript](https://github.com/Ambrosio99/sc23-bank-TS)<br/>
 - [Projeto Bikcraft - Origamid](https://github.com/Ambrosio99/bikcraft-project)<br/>
 - [Jogo da forca em Javascript](https://github.com/Ambrosio99/sc23-jogo-forca)<br/>
 <hr>
-
-![Ambrosio99 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambrosio99&show_icons=true&theme=dracula&count_private=true)
