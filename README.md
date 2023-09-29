@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Lucas Ambrosio 🖐️ <br/> Desenvolvedor Front-End e Designer gráfico
 
 #### Apaixonado por tecnologia, Web Design e por mudar a vida das pessoas através da programação.
+- 🎓 Graduado na instituição UniCuritiba no curso de Design Gráfico.
 - 🌱 Nesse momento estou estudando AngularJS e React.
 - 📫 Você pode entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/ambrosio99/).
 
