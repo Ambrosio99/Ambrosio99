@@ -22,4 +22,5 @@
 - [Sistema bancário simples em TypeScript](https://github.com/Ambrosio99/sc23-bank-TS)<br/>
 - [Projeto Bikcraft - Origamid](https://github.com/Ambrosio99/bikcraft-project)<br/>
 - [Jogo da forca em Javascript](https://github.com/Ambrosio99/sc23-jogo-forca)<br/>
+- [Projeto Churrascômetro](https://github.com/Ambrosio99/sc23-churrascometro)<br/>
 <hr>
