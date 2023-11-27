@@ -17,6 +17,9 @@
 ### Portfólio pessoal
 - [Ambrosio99](https://ambrosio99.github.io/personal-portfolio/) | Neste portfólio comento sobre minhas experiências, conhecimentos e estudos que estou desenvolvendo no momento.
 
+### Cursos
+- [SantanderCoders 2023](https://github.com/Ambrosio99/SantanderCoders2023) | Bolsa recebida pelo Santader para realizar o curso de Front-end desenvolvido pela plataforma ADA. No repositório referente ao link está todos os projetos que desenvolvi ao longo do curso. Ao longo do curso foi utilizado: HTML | CSS | JS | TS | ANGULAR.
+
 ### Últimos projetos:
 - [Pokedex utilizando PokeAPI](https://github.com/Ambrosio99/projeto-pokedex)<br/>
 - [Sistema bancário simples em TypeScript](https://github.com/Ambrosio99/sc23-bank-TS)<br/>
