@@ -3,6 +3,7 @@
 #### Apaixonado por tecnologia, Web Design e por mudar a vida das pessoas através da programação.
 - 🎓 Graduado na instituição UniCuritiba no curso de Design Gráfico.
 - 🌱 Nesse momento estou estudando AngularJS e React.
+- 👩‍💻 Também já explorei HTML, CSS, JS e TypeScript.
 - 📫 Você pode entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/ambrosio99/).
 
 ## Tecnologias que eu uso no meu dia a dia:
