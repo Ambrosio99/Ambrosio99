@@ -29,5 +29,5 @@
 - [Jogo da forca em Javascript](https://github.com/Ambrosio99/sc23-jogo-forca)<br/>
 - [Projeto Churrascômetro](https://github.com/Ambrosio99/sc23-churrascometro)<br/>
 - [Ambrosi Cosméticos](https://github.com/Ambrosio99/Ambrosi-cosmeticos)<br/>
-- [Projeto VidFlow API - Alura](https://github.com/Ambrosio99/alura-vidflow)<br/>
+- [Site autoral - Advocacia Paulo Ambrosio](https://github.com/Ambrosio99/AdvPAmbrosio)<br/>
 <hr>
