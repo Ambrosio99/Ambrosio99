@@ -23,11 +23,11 @@
 - [SantanderCoders 2023](https://github.com/Ambrosio99/SantanderCoders2023) | Bolsa recebida pelo Santader para realizar o curso de Front-end desenvolvido pela plataforma ADA. No repositório referente ao link está todos os projetos que desenvolvi ao longo do curso. Ao longo do curso foi utilizado: HTML | CSS | JS | TS | ANGULAR.
 
 ### Últimos projetos:
+- [Site autoral - Advocacia Paulo Ambrosio](https://github.com/Ambrosio99/AdvPAmbrosio)<br/>
 - [Pokedex utilizando PokeAPI](https://github.com/Ambrosio99/projeto-pokedex)<br/>
+- [Projeto Churrascômetro](https://github.com/Ambrosio99/sc23-churrascometro)<br/>
 - [Sistema bancário simples em TypeScript](https://github.com/Ambrosio99/sc23-bank-TS)<br/>
 - [Projeto Bikcraft - Origamid](https://github.com/Ambrosio99/bikcraft-project)<br/>
 - [Jogo da forca em Javascript](https://github.com/Ambrosio99/sc23-jogo-forca)<br/>
-- [Projeto Churrascômetro](https://github.com/Ambrosio99/sc23-churrascometro)<br/>
 - [Ambrosi Cosméticos](https://github.com/Ambrosio99/Ambrosi-cosmeticos)<br/>
-- [Site autoral - Advocacia Paulo Ambrosio](https://github.com/Ambrosio99/AdvPAmbrosio)<br/>
 <hr>
