@@ -22,7 +22,7 @@
 ### Cursos
 - [SantanderCoders 2023](https://github.com/Ambrosio99/SantanderCoders2023) | Bolsa recebida pelo Santader para realizar o curso de Front-end desenvolvido pela plataforma ADA. No repositório referente ao link está todos os projetos que desenvolvi ao longo do curso. Ao longo do curso foi utilizado: HTML | CSS | JS | TS | ANGULAR.
 
-- [Desenvolve Grupo Boticário] | Bolsa recebida pelo Grupo Boticário para realizar o curso de Full-stack desenvolvido pela plataforma Alura. Curso esse que me possibilitou revisar meus conhecimentos de Front-end e aprender conceitos do Back-end que antes não tinha conhecimento. (Javascript, Nodejs, PostgreSQL e MongoDB).
+- Desenvolve Grupo Boticário | Bolsa recebida pelo Grupo Boticário para realizar o curso de Full-stack desenvolvido pela plataforma Alura. Curso esse que me possibilitou revisar meus conhecimentos de Front-end e aprender conceitos do Back-end que antes não tinha conhecimento. (Javascript, Nodejs, PostgreSQL e MongoDB).
 
 ### Últimos projetos:
 - [Site autoral - Advocacia Paulo Ambrosio](https://github.com/Ambrosio99/AdvPAmbrosio)<br/>
